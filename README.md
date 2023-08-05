@@ -31,7 +31,7 @@ pc端：http://f_bi.nuyfc.website/
 ## 目录结构规范
 
 我们也有自己的目录结构
-### <img src=".\doc\img\应用分层.png" alt="应用分层" style="zoom:50%;" />
+### <img src=".\doc\img\应用分层.png" alt="应用分层" style="zoom:100%;" />
 
 - VO（View Object）：显示层对象，通常是 Web 向模板渲染引擎层传输的对象。
 - DTO（Data Transfer Object）：数据传输对象，前端像后台进行传输的对象，类似于param。
@@ -194,7 +194,7 @@ pc端：http://f_bi.nuyfc.website/
 ### <img src=".\doc\img\技术选型.png" alt="技术选型" style="zoom:100%;" />
 
 ## 系统架构图
-### <img src=".\doc\img\架构图.png" alt="架构图" style="zoom:50%;" />
+### <img src=".\doc\img\架构图.png" alt="架构图" style="zoom:100%;" />
 
 ## 部署教程
 
