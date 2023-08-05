@@ -191,7 +191,7 @@ pc端：http://f_bi.nuyfc.website/
 ```
 
 ## 技术选型
-### <img src=".\doc\img\技术选型.png" alt="技术选型" style="zoom:50%;" />
+### <img src=".\doc\img\技术选型.png" alt="技术选型" style="zoom:100%;" />
 
 ## 系统架构图
 ### <img src=".\doc\img\架构图.png" alt="架构图" style="zoom:50%;" />
